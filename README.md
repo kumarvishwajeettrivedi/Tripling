@@ -7,15 +7,15 @@
 - **Search Nearby Hotels and Camps**: Users can easily find nearby accommodations and camping sites.
 - **Interactive Map**: A map interface to visualize locations.
 - **User Reviews**: Users can read and submit reviews for hotels and camps.
-- **Booking Integration**: Book hotels and camps directly through the app.
-
+- **User Accounts**: Users can create accounts to manage their reviews and bookings.
+- **Review Management**: Users can submit, update, and delete their reviews.
+- **Hotel Search**: Find hotels by name and location.
 
 ## Tech Stack
 
 - **Frontend**: ReactJS
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
-
 
 ## Installation
 
